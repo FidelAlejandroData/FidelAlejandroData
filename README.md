@@ -78,25 +78,7 @@ I enjoy turning complex data into **clear, meaningful and actionable insights**.
 
 # 💡 What I Bring to Data Analytics
 
----
-config:
-  theme: base
-  themeVariables:
-    fontFamily: "Arial, Helvetica, sans-serif"
-    fontSize: "16px"
-    primaryColor: "#1E3A5F"
-    primaryTextColor: "#FFFFFF"
-    primaryBorderColor: "#162E4A"
-    secondaryColor: "#E8EEF5"
-    secondaryTextColor: "#1E3A5F"
-    secondaryBorderColor: "#A8B7C7"
-    tertiaryColor: "#F5F7FA"
-    tertiaryTextColor: "#263648"
-    tertiaryBorderColor: "#D5DDE5"
-    lineColor: "#7B8A9A"
-    background: "#FFFFFF"
----
-
+```mermaid
 mindmap
   root((Fidel))
     Data Analytics
@@ -121,7 +103,7 @@ mindmap
       Teaching
       Leadership
       Critical Thinking
-
+```
 ---
 
 ## 📂 Featured Data Projects
