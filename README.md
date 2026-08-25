@@ -78,7 +78,24 @@ I enjoy turning complex data into **clear, meaningful and actionable insights**.
 
 # 💡 What I Bring to Data Analytics
 
-```mermaid
+%%{init: {
+  "theme": "base",
+  "themeVariables": {
+    "fontFamily": "Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif",
+    "fontSize": "16px",
+    "primaryColor": "#172B4D",
+    "primaryTextColor": "#FFFFFF",
+    "primaryBorderColor": "#0F1F38",
+    "secondaryColor": "#E8EEF5",
+    "secondaryTextColor": "#172B4D",
+    "secondaryBorderColor": "#94A3B8",
+    "tertiaryColor": "#F8FAFC",
+    "tertiaryTextColor": "#334155",
+    "tertiaryBorderColor": "#CBD5E1",
+    "lineColor": "#94A3B8"
+  }
+}}%%
+
 mindmap
   root((Fidel))
     Data Analytics
@@ -103,7 +120,6 @@ mindmap
       Teaching
       Leadership
       Critical Thinking
-```
 
 ---
 
