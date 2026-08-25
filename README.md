@@ -78,23 +78,24 @@ I enjoy turning complex data into **clear, meaningful and actionable insights**.
 
 # 💡 What I Bring to Data Analytics
 
-%%{init: {
-  "theme": "base",
-  "themeVariables": {
-    "fontFamily": "Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif",
-    "fontSize": "16px",
-    "primaryColor": "#172B4D",
-    "primaryTextColor": "#FFFFFF",
-    "primaryBorderColor": "#0F1F38",
-    "secondaryColor": "#E8EEF5",
-    "secondaryTextColor": "#172B4D",
-    "secondaryBorderColor": "#94A3B8",
-    "tertiaryColor": "#F8FAFC",
-    "tertiaryTextColor": "#334155",
-    "tertiaryBorderColor": "#CBD5E1",
-    "lineColor": "#94A3B8"
-  }
-}}%%
+---
+config:
+  theme: base
+  themeVariables:
+    fontFamily: "Arial, Helvetica, sans-serif"
+    fontSize: "16px"
+    primaryColor: "#1E3A5F"
+    primaryTextColor: "#FFFFFF"
+    primaryBorderColor: "#162E4A"
+    secondaryColor: "#E8EEF5"
+    secondaryTextColor: "#1E3A5F"
+    secondaryBorderColor: "#A8B7C7"
+    tertiaryColor: "#F5F7FA"
+    tertiaryTextColor: "#263648"
+    tertiaryBorderColor: "#D5DDE5"
+    lineColor: "#7B8A9A"
+    background: "#FFFFFF"
+---
 
 mindmap
   root((Fidel))
