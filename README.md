@@ -133,10 +133,8 @@ mindmap
 
 ### 🐍 Python
 
-- **Introduction to Python**
-- [**Introduction to Python**](https://www.datacamp.com/completed/statement-of-accomplishment/course/ab76af7e16f8b2de682ef98100e59d1bd3d2351b?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa)
-- **Intermediate Python**
-- [**Intermediate Python**](https://www.datacamp.com/completed/statement-of-accomplishment/course/ab76af7e16f8b2de682ef98100e59d1bd3d2351b?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa)
+- [**Introduction to Python**](https://www.datacamp.com/completed/statement-of-accomplishment/course/1844f1f18e46c042eae942a930600914b4c715d0?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa)
+- [**Intermediate Python**](https://www.datacamp.com/completed/statement-of-accomplishment/course/035b92cc2692735c854526ca7e20fd0655b4609d?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa)
 
 ### 📊 Power BI
 
@@ -144,16 +142,12 @@ mindmap
 
 ### ☁️ Microsoft Azure & Cloud
 
-- **Understanding Cloud Computing**
-- [**Understanding Cloud Computing**](https://www.datacamp.com/completed/statement-of-accomplishment/course/ab76af7e16f8b2de682ef98100e59d1bd3d2351b?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa)
-- **Understanding Microsoft Azure**
-- [**Understanding Microsoft Azure**](https://www.datacamp.com/completed/statement-of-accomplishment/course/ab76af7e16f8b2de682ef98100e59d1bd3d2351b?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa)
-- **Understanding Microsoft Azure Architecture and Services**
-- [**Understanding Microsoft Azure Architecture and Services**](https://www.datacamp.com/completed/statement-of-accomplishment/course/ab76af7e16f8b2de682ef98100e59d1bd3d2351b?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa)
-- **Understanding Microsoft Azure Management and Governance**
-- [**Understanding Microsoft Azure Management and Governance**](https://www.datacamp.com/completed/statement-of-accomplishment/course/ab76af7e16f8b2de682ef98100e59d1bd3d2351b?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa)
+- [**Understanding Cloud Computing**](https://www.datacamp.com/completed/statement-of-accomplishment/course/60bd107bcb646fc687916a2383bb21fd0a5e7265?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa)
+- [**Understanding Microsoft Azure**](https://www.datacamp.com/completed/statement-of-accomplishment/course/9d1944e4869d91f2dd9d28313f67487b0d1cc802?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa)
+- [**Understanding Microsoft Azure Architecture and Services**](https://www.datacamp.com/completed/statement-of-accomplishment/course/675f8851e4072b234c78e321a1e819a6c2c623c3?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa)
+- [**Understanding Microsoft Azure Management and Governance**](https://www.datacamp.com/completed/statement-of-accomplishment/course/b6975abae7040eb6837cb16e3991514f6d82bb6b?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa)
 - **Microsoft Azure Fundamentals (AZ-900)**
-- [**Microsoft Azure Fundamentals (AZ-900)**](https://www.datacamp.com/completed/statement-of-accomplishment/course/ab76af7e16f8b2de682ef98100e59d1bd3d2351b?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa)
+- [**Microsoft Azure Fundamentals (AZ-900)**](https://www.datacamp.com/completed/statement-of-accomplishment/track/e767644044dfa18a7c6378abb08c63fdb07b0c6f?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa)
 
 </details>
 
