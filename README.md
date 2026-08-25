@@ -1,6 +1,6 @@
 # Hey! Nice to see you 👋
 
-### Hi, I'm Fidel — Research Scientist transitioning into Data Analytics 📊
+### I'm Fidel Alejandro — Research Scientist transitioning into Data Analytics 📊
 
 I hold a **PhD in Physical Chemistry** and have a background in scientific research, university teaching, mathematics, programming and computational modelling.
 
