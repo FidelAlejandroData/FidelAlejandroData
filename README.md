@@ -76,6 +76,37 @@ I enjoy turning complex data into **clear, meaningful and actionable insights**.
 
 ---
 
+# 💡 What I Bring to Data Analytics
+
+```mermaid
+mindmap
+  root((Fidel))
+    Data Analytics
+      SQL
+      Python
+      Power BI
+      Tableau
+      Excel
+    Scientific Background
+      Mathematics
+      Computational Modelling
+      Numerical Methods
+      Research
+    Business Intelligence
+      Dashboards
+      Data Storytelling
+      Data Visualisation
+      Decision Support
+    Professional Skills
+      Problem Solving
+      Communication
+      Teaching
+      Leadership
+      Critical Thinking
+```
+
+---
+
 ## 📂 Featured Data Projects
 
 | Project | Focus |
