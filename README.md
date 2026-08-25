@@ -126,28 +126,34 @@ mindmap
 
 ### 🗄️ SQL
 
-- **Introduction to SQL**
-- **Intermediate SQL**
-- **Joining Data in SQL**
-- **Data Manipulation in SQL**
+- [**Introduction to SQL**](https://www.datacamp.com/completed/statement-of-accomplishment/course/b57798930b3041fb50e37266716d97f3961bee33?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa)
+- [**Intermediate SQL**](https://www.datacamp.com/completed/statement-of-accomplishment/course/99ce9a4f22474d933eba1981d06faca60d186335?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa)
+- [**Joining Data in SQL**](https://www.datacamp.com/completed/statement-of-accomplishment/course/b975050579e347545d313a33f7894f7e6e8503e9?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa)
+- [**Data Manipulation in SQL**](https://www.datacamp.com/completed/statement-of-accomplishment/course/bdcaed25416c3b95feb1ac0dee32adeb2efef920?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa)
 
 ### 🐍 Python
 
 - **Introduction to Python**
+- [**Introduction to Python**](https://www.datacamp.com/completed/statement-of-accomplishment/course/ab76af7e16f8b2de682ef98100e59d1bd3d2351b?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa)
 - **Intermediate Python**
+- [**Intermediate Python**](https://www.datacamp.com/completed/statement-of-accomplishment/course/ab76af7e16f8b2de682ef98100e59d1bd3d2351b?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa)
 
 ### 📊 Power BI
 
-- **Data Visualization in Power BI**
-- 🎓 [**Data Visualization in Power BI**](https://www.datacamp.com/completed/statement-of-accomplishment/course/ab76af7e16f8b2de682ef98100e59d1bd3d2351b?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa)
+- [**Data Visualization in Power BI**](https://www.datacamp.com/completed/statement-of-accomplishment/course/ab76af7e16f8b2de682ef98100e59d1bd3d2351b?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa)
 
 ### ☁️ Microsoft Azure & Cloud
 
 - **Understanding Cloud Computing**
+- [**Understanding Cloud Computing**](https://www.datacamp.com/completed/statement-of-accomplishment/course/ab76af7e16f8b2de682ef98100e59d1bd3d2351b?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa)
 - **Understanding Microsoft Azure**
+- [**Understanding Microsoft Azure**](https://www.datacamp.com/completed/statement-of-accomplishment/course/ab76af7e16f8b2de682ef98100e59d1bd3d2351b?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa)
 - **Understanding Microsoft Azure Architecture and Services**
+- [**Understanding Microsoft Azure Architecture and Services**](https://www.datacamp.com/completed/statement-of-accomplishment/course/ab76af7e16f8b2de682ef98100e59d1bd3d2351b?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa)
 - **Understanding Microsoft Azure Management and Governance**
+- [**Understanding Microsoft Azure Management and Governance**](https://www.datacamp.com/completed/statement-of-accomplishment/course/ab76af7e16f8b2de682ef98100e59d1bd3d2351b?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa)
 - **Microsoft Azure Fundamentals (AZ-900)**
+- [**Microsoft Azure Fundamentals (AZ-900)**](https://www.datacamp.com/completed/statement-of-accomplishment/course/ab76af7e16f8b2de682ef98100e59d1bd3d2351b?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa)
 
 </details>
 
