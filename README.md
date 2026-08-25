@@ -139,6 +139,7 @@ mindmap
 ### 📊 Power BI
 
 - **Data Visualization in Power BI**
+- 🎓 [**Data Visualization in Power BI**](https://www.datacamp.com/completed/statement-of-accomplishment/course/ab76af7e16f8b2de682ef98100e59d1bd3d2351b?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa)
 
 ### ☁️ Microsoft Azure & Cloud
 
