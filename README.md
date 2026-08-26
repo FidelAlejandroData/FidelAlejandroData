@@ -84,7 +84,7 @@ I enjoy turning complex data into **clear, meaningful and actionable insights**.
 
 ```mermaid
 mindmap
-  root((Fidel))
+  root((Fidel Alejandro))
     Data Analytics
       SQL
       Python
