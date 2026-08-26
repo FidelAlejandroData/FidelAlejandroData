@@ -65,6 +65,16 @@ I enjoy turning complex data into **clear, meaningful and actionable insights**.
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white" />
 </p>
 
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://matplotlib.org/_static/images/logo2.svg" height="28" alt="Matplotlib" />
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="28" alt="Seaborn" />
+</p>
+
 ### ☁️ Cloud & Development
 
 <p align="left">
