@@ -75,7 +75,7 @@ I enjoy turning complex data into **clear, meaningful and actionable insights**.
 </p>
 
 **Additional technical background:**  
-`C++` · `Fortran` · `Matplotlib` · `Google Colab` · `LaTeX` · `Gnuplot` · `Computational Modelling` · `Numerical Methods`
+`C++` · `Fortran` · `Google Colab` · `LaTeX` · `Gnuplot` · `Computational Modelling` · `Numerical Methods`
 
 ---
 
