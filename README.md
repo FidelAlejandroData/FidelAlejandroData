@@ -140,6 +140,7 @@ mindmap
 - [**Introduction to Python**](https://www.datacamp.com/completed/statement-of-accomplishment/course/1844f1f18e46c042eae942a930600914b4c715d0?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa)
 - [**Intermediate Python**](https://www.datacamp.com/completed/statement-of-accomplishment/course/035b92cc2692735c854526ca7e20fd0655b4609d?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa)
 - [**Data Manipulation with pandas**](https://www.datacamp.com/completed/statement-of-accomplishment/course/d1998175deab4d0063a6023b2c2303d37ff8695e?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa)
+- [**Joining Data with pandas**](https://www.datacamp.com/completed/statement-of-accomplishment/course/78c360b742011a717f8e4c2392b04a545d6ff404?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa)
 
 ### 📊 Power BI
 
