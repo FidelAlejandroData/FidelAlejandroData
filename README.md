@@ -10,14 +10,6 @@ I enjoy turning complex data into **clear, meaningful and actionable insights**.
 
 ---
 
-### 🌍 Languages
-
-🇪🇸 **Spanish** ★★★★★  
-🇬🇧 **English** ★★★★☆  
-🇫🇷 **French** ★★☆☆☆
-
----
-
 ### 📌 NOW
 
 - 📚 Completing a **Data Technician Skills Bootcamp**
@@ -25,6 +17,14 @@ I enjoy turning complex data into **clear, meaningful and actionable insights**.
 - 🌱 Developing my skills in **SQL, Python, Power BI, Tableau and Azure**
 - 🎯 Looking for opportunities as a **Data Analyst, Junior Data Analyst, Data Technician** or related **apprenticeships**.
 - 📍 Based in **Liverpool, United Kingdom**
+
+---
+
+### 🌍 Languages
+
+🇪🇸 **Spanish** ★★★★★  
+🇬🇧 **English** ★★★★☆  
+🇫🇷 **French** ★★☆☆☆
 
 ---
 
