@@ -31,9 +31,9 @@ I enjoy turning complex data into **clear, meaningful and actionable insights**.
 ## 👨‍💻 BIO
 
 - ⚛️ BSc in Nuclear Engineering <i>(2002 - 2008)</i>
-- 👨‍🏫 Former university lecturer in Mathematics <i>(2010 - 2016)</i>
+- 👨‍🏫 University lecturer in Mathematics <i>(2010 - 2016)</i>
 - 🧪 PhD in Physical Chemistry <i>(2011 - 2016)</i>
-- 🔬 Former Newton International Fellow at the University of Bristol <i>(2018 - 2019)</i>
+- 🔬 Newton International Fellow at the University of Bristol <i>(2018 - 2019)</i>
 - 💻 Background in Python, C++, Git and computational science
 - 📊 Experience analysing complex scientific and quantitative datasets
 - 🧠 Strong background in mathematics, numerical methods and problem-solving
