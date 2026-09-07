@@ -30,7 +30,7 @@ I enjoy turning complex data into **clear, meaningful and actionable insights**.
 
 ## 👨‍💻 BIO
 
-- 🧪 PhD in Physical Chemistry
+- 🧪 PhD in Physical Chemistry <i> (2011 - 2016) </i>
 - ⚛️ BSc in Nuclear Engineering
 - 🔬 Former Newton International Fellow at the University of Bristol
 - 👨‍🏫 Former university lecturer in Mathematics
