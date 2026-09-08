@@ -66,7 +66,7 @@ I enjoy turning complex data into **clear, meaningful and actionable insights**.
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white" />
 </p>
 
-### ☁️ Cloud & Development
+### ☁️ Cloud Computing & Development
 
 <p align="left">
   <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
